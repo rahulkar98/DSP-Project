@@ -4,9 +4,9 @@ Rahul Kar Yashitha Liyanage
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Main Stages of the Project
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+This project mainly has three main parts 1.Feature Extraction 2.Feature Selection 3.Classification
 
 ```markdown
 Syntax highlighted code block
